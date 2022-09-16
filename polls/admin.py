@@ -6,4 +6,4 @@ from .models import *
 
 admin.site.register(Question)
 admin.site.register(Choice)
-admin.site.register(Book)
+admin.site.register(NoteBook)
