@@ -6,7 +6,10 @@
 
 
 clone the repository<br/>
-
+found out that when u make changes to database models from  one computer, push it to remote and  git clone it to another computer<br/>
+database models changes are reflected in another computer as well<br/>
+also when u insert values in database and push it to remote<br/>
+the newly inserted values from one computer can be reflected on second computer as well<br/>
 
 
 create the virtual environment with name hawa<br/>
